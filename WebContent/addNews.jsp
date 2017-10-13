@@ -13,6 +13,7 @@
 <%@ page import="control.GetCategory" %>
 <%@  taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 </head>
+	This is just a comment
 <body>
 	<div>
 	<center>
